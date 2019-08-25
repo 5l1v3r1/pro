@@ -1,0 +1,12 @@
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0xA211" PRODUCTNAME="Bose S1 Pro" UPDATABLE_QUERY="0">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="pl,en-us,es-mx,de,it,fr,zh-cn,nl,ja,ko,pt-br,ru,sv" REVISION="7.0.10.617" URLPATH="/pro/master/chibi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Chibi_7.0.10_stack_plus_app.dfu" LENGTH="1805080" NOFORCE="1" REVISION="7.0.10.617" SUBID="0" />
+      </RELEASE>
+      <RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="pl,en-us,es-mx,de,it,fr,zh-cn,nl,ja,ko,pt-br,ru,sv" REVISION="7.0.11.669" URLPATH="/pro/master/chibi/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="Chibi_7.0.11_stack_plus_app.dfu" LENGTH="1805104" NOFORCE="1" REVISION="7.0.11.669" SUBID="0" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
